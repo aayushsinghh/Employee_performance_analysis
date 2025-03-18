@@ -118,7 +118,7 @@ Static Files:
 # Output
 ![Project 1](https://github.com/aayushsinghh/Employee_performance_analysis/blob/master/project1.png)
 ![Project 2](https://github.com/aayushsinghh/Employee_performance_analysis/blob/master/project2.png)
-![Project 3](https://github.com/aayushsinghh/Employee_performance_analysis/blod/master/projectt3.png)
+![Project 3](https://github.com/aayushsinghh/Employee_performance_analysis/blob/master/projectt3.png)
 ![Project 4](https://github.com/aayushsinghh/Employee_performance_analysis/blob/master/project4.png)
 
 # Conclusion
