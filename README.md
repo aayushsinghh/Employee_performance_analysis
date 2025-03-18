@@ -116,10 +116,10 @@ Static Files:
 - View the Prediction: The result will be displayed on the "Submit" page, showing the predicted performance.
 
 # Output
-![Project 1](https://github.com/aayushsinghh/Employee_performance_analysis/blob/main/project1.png)
-![Project 2](https://github.com/aayushsinghh/Employee_performance_analysis/blob/main/project2.png)
-![Project 3](https://github.com/aayushsinghh/Employee_performance_analysis/blob/main/projectt3.png)
-![Project 4](https://github.com/aayushsinghh/Employee_performance_analysis/blob/main/project4.png)
+![Project 1](https://github.com/aayushsinghh/Employee_performance_analysis/blob/master/project1.png)
+![Project 2](https://github.com/aayushsinghh/Employee_performance_analysis/blob/master/project2.png)
+![Project 3](https://github.com/aayushsinghh/Employee_performance_analysis/blod/master/projectt3.png)
+![Project 4](https://github.com/aayushsinghh/Employee_performance_analysis/blob/master/project4.png)
 
 # Conclusion
 This project offers a streamlined interface for predicting employee performance using a machine learning model integrated with a Flask web application. The XGBoost model's high accuracy ensures reliable predictions, while the user-friendly interface allows easy data input and results retrieval.
