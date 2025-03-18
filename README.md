@@ -114,5 +114,12 @@ Static Files:
 - Fill Out the Form: Enter all required details into the provided form fields.
 - Submit the Form: Click the "Submit" button to process the data and generate a prediction.
 - View the Prediction: The result will be displayed on the "Submit" page, showing the predicted performance.
+
+#Output
+![Project 1](https://github.com/aayushsinghh/Employee_performance_analysis/blob/main/project1.png)
+![Project 2](https://github.com/aayushsinghh/Employee_performance_analysis/blob/main/project2.png)
+![Project 3](https://github.com/aayushsinghh/Employee_performance_analysis/blob/main/projectt3.png)
+![Project 4](https://github.com/aayushsinghh/Employee_performance_analysis/blob/main/project4.png)
+
 # Conclusion
 This project offers a streamlined interface for predicting employee performance using a machine learning model integrated with a Flask web application. The XGBoost model's high accuracy ensures reliable predictions, while the user-friendly interface allows easy data input and results retrieval.
